@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "splash-screen-animated",
+    "slug": "splash-screen-animated",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "splash-screen-animated"
+}
